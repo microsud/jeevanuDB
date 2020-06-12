@@ -30,11 +30,12 @@ taxa_names(pseq)[1:3]
 From the dada2 tutorial page [link here](https://benjjneb.github.io/dada2/tutorial.html) for saving seqs inside phyloseq object.   
 
 ```
-dna <- Biostrings::DNAStringSet(taxa_names(ps))
-names(dna) <- taxa_names(ps)
-ps <- merge_phyloseq(ps, dna)
-taxa_names(ps) <- paste0("ASV", seq(ntaxa(ps)))
-ps
+
+dna <- Biostrings::DNAStringSet(taxa_names(moving_pictures))
+names(dna) <- taxa_names(moving_pictures)
+moving_pictures <- merge_phyloseq(moving_pictures, dna)
+taxa_names(moving_pictures) <- paste0("ASV", seq(ntaxa(moving_pictures)))
+moving_pictures
 ```
 
 
