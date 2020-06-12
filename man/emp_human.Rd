@@ -18,7 +18,8 @@ Loads the data set in R.
 }
 \description{
 The emp_human data set contains high-through taxonomic profiling data from
-160 samples which is a small subet from the Earth Microbiome Project. The ASV-level counts
+160 samples which is a small subet from the Earth Microbiome Project. 30 feces, 23 mucus,
+56 saliva and 51 sebum samples with ASV-level counts
 as would be expected for denoising algorithms.
 #' NOTE: These are only test datasets.
 }

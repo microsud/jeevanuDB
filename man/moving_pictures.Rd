@@ -18,7 +18,8 @@ Loads the data set in R.
 }
 \description{
 The moving_pictures data set contains high-through taxonomic profiling data from
-1966 samples from two subjects which is a subet from the Earth Microbiome Project and samples from
+1966 samples from two F4 (saliva n= 135, skin n= 268, stool n= 131) and M3 (saliva n= 373, skin n= 723, stool n= 336)
+subjects which is a subet from the Earth Microbiome Project and samples from
 the moving pictures study by . The ASV-level counts as would be expected for denoising algorithms.
 NOTE: These are only test datasets.
 }

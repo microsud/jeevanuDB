@@ -1,6 +1,7 @@
 #' @title emp_human
 #' @description The emp_human data set contains high-through taxonomic profiling data from
-#' 160 samples which is a small subet from the Earth Microbiome Project. The ASV-level counts
+#' 160 samples which is a small subet from the Earth Microbiome Project. 30 feces, 23 mucus,
+#' 56 saliva and 51 sebum samples with ASV-level counts
 #' as would be expected for denoising algorithms.
 #' #' NOTE: These are only test datasets.
 #' @name emp_human
@@ -17,7 +18,8 @@
 
 #' @title moving_pictures
 #' @description The moving_pictures data set contains high-through taxonomic profiling data from
-#' 1966 samples from two subjects which is a subet from the Earth Microbiome Project and samples from
+#' 1966 samples from two F4 (saliva n= 135, skin n= 268, stool n= 131) and M3 (saliva n= 373, skin n= 723, stool n= 336)
+#' subjects which is a subet from the Earth Microbiome Project and samples from
 #' the moving pictures study by . The ASV-level counts as would be expected for denoising algorithms.
 #' NOTE: These are only test datasets.
 #' @name moving_pictures
