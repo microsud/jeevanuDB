@@ -12,7 +12,7 @@ get_microbiome_data(disease, study)
 \item{study}{Name of the study as shown in list_microbiome_data()}
 }
 \value{
-\code{\link{phyloseq-class}} object.
+phyloseq object.
 }
 \description{
 Test microbiome data in phyloseq format. It is duplicate from microbiomeutilities pkg.

@@ -4,11 +4,6 @@
 
 <font color="red">This package consists only of examples and modified data!</font>
 
-## About
-
-# jeevanuDB
-Example data sets and other data type for microbiome package
-
 
 ## Installing jeevanuDB   
 

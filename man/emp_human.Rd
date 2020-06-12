@@ -6,11 +6,6 @@
 \title{emp_human}
 \format{
 phyloseq object
-Thompson LR et al. (2017):
-\itemize{
-\item phyloseq
-\code{\link{phyloseq-class}} object.
-}
 }
 \source{
 https://www.nature.com/articles/nature24621

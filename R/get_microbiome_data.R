@@ -3,7 +3,7 @@
 #' @details You can download few example datasets in phyloseq format from Duvallet et al 2017 https://www.nature.com/articles/s41467-017-01973-8.pdf?origin=ppub. The source file for these data is the microbiomedatarepo https://github.com/microsud/microbiomedatarepo.
 #' @param disease Disease of interest as shown in list_microbiome_data()
 #' @param study Name of the study as shown in list_microbiome_data()
-#' @return \code{\link{phyloseq-class}} object.
+#' @return phyloseq object.
 #' @import microbiome
 #' @export
 #' @examples

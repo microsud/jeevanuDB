@@ -7,7 +7,7 @@ Authors@R: c(
     person("Leo", "Lahti", role = "aut"))
 Maintainer: Sudarshan A Shetty <sudarshanshetty9@gmail.com>
 Description: Contains various datasets which can be used to explain specific functionality or examples. 
-License: BSD_2_clause
+License: BSD_2_clause + file LICENSE
 Depends:
     R (>= 3.6.0),
     microbiome
