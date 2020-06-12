@@ -1,0 +1,18 @@
+
+citHeader("To cite jeevanuDB in publications use:")
+
+citEntry(
+entry="Manual",
+journal = "",
+title = "jeevanuDB: Example data sets for microbiome R pkg",
+year = "2020",
+author = personList(as.person("Sudarshan A. Shetty"),
+as.person("Leo Lahti")),
+url = "https://github.com/microsud/jeevanuDB",
+textVersion = paste("Shetty SA (2020). jeevanuDB: Example data sets for microbiome R pkg. R package version 0.0.01 https://github.com/microsud/jeevanuDB.")
+)
+
+
+
+citHeader("Please cite the package as follows:")
+

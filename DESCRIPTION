@@ -1,0 +1,23 @@
+Package: jeevanuDB
+Type: Package
+Title: jeevanuDB: Example data sets for microbiome R pkg
+Version: 0.0.01
+Authors@R: c(
+    person("Sudarshan", "Shetty", email = "sudarshanshetty9@gmail.com", role = c("aut", "cre")),
+    person("Leo", "Lahti", role = "aut"))
+Maintainer: Sudarshan A Shetty <sudarshanshetty9@gmail.com>
+Description: Contains various datasets which can be used to explain specific functionality or examples. 
+License: BSD_2_clause
+Depends:
+    R (>= 3.6.0),
+    microbiome
+Suggests:
+    knitr
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/microsud/jeevanuDB
+MailingList: microbiome <microbiome-devel@googlegroups.com>
+BugReports: https://github.com/microsud/jeevanuDB/issues
+VignetteBuilder: knitr
+Packaged: 2020-06-12 14:19:39 UTC; lei
+RoxygenNote: 7.1.0
